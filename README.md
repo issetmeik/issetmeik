@@ -3,7 +3,7 @@
 ## Sobre mim
 - [ ] Sou desenvolvedor de software com foco no backend, tenho 22 anos de idade e sempre fui apaixonado por tecnologia e inovação.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-tavares-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-tavares-1a7021241/)
 
 ## Tecnologias que eu uso no meu dia
 
