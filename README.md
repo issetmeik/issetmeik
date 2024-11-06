@@ -18,9 +18,6 @@
   
 </div><br/>
 
-## Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=issetmeik&show_icons=true&theme=dracula&count_private=true)
-
 
 ## Projetos
 - [DesafioTech Junior ](https://github.com/issetmeik/desafiotech-junior#readme)
