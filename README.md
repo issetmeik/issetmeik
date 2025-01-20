@@ -20,5 +20,7 @@
 
 
 ## Projetos
+- [Api Naruto](https://github.com/issetmeik/api-naruto#readme)
 - [Technical Test](https://github.com/issetmeik/technical-test#readme)
 - [Tasklist](https://github.com/issetmeik/tasklist/blob/main/README.md)
+
