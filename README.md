@@ -20,5 +20,5 @@
 
 
 ## Projetos
-- [DesafioTech Junior ](https://github.com/issetmeik/desafiotech-junior#readme)
+- [Technical Test](https://github.com/issetmeik/technical-test#readme)
 - [Tasklist](https://github.com/issetmeik/tasklist/blob/main/README.md)
