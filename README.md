@@ -1,11 +1,11 @@
-# Olá, eu sou João Tavares 👋
+# Hello, I'm João Tavares 👋
 
-## Sobre mim
-- [ ] Sou desenvolvedor de software com foco no backend, tenho 24 anos de idade e sempre fui apaixonado por tecnologia e inovação.
+## About Me
+- [ ] I am a Software Developer with over 3 years of experience in backend development. My focus is on delivering high-quality software solutions that provide maximum value with minimal effort, committed to achieving exceptional results.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-tavares-1a7021241/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovtavares/)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I Use Daily
 
 <div style="display: inline_block">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -19,7 +19,8 @@
 </div><br/>
 
 
-## Projetos
+## Projects
+- [Bitcoin Wallet](https://github.com/issetmeik/bitcoin-wallet#readme)
 - [Api Naruto](https://github.com/issetmeik/api-naruto#readme)
 - [Technical Test](https://github.com/issetmeik/technical-test#readme)
 - [Tasklist](https://github.com/issetmeik/tasklist/blob/main/README.md)
