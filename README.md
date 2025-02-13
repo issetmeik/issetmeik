@@ -21,7 +21,7 @@
 
 
 ## Projects
-- [Bitcoin Wallet](https://github.com/issetmeik/bitcoin-wallet#readme)
+- [JVWallet](https://github.com/issetmeik/jv-wallet#readme)
 - [Api Naruto](https://github.com/issetmeik/api-naruto#readme)
 - [Technical Test](https://github.com/issetmeik/technical-test#readme)
 - [Tasklist](https://github.com/issetmeik/tasklist/blob/main/README.md)
